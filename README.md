@@ -1,11 +1,13 @@
 # <p align="center">⚡ SYSTEMS ONLINE: EL MEHDI LAHRACH ⚡</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=glitch&color=BC13FE&height=200&section=header&text=EL%20MEHDI%20LAHRACH&fontSize=70&animation=fadeIn&fontColor=00f3ff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=EL%20MEHDI%20LAHRACH&fontSize=70&fontColor=BC13FE&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC13FE&center=true&vCenter=true&width=500&lines=FULL+STACK+ARCHITECT;MASTERING+THE+DIGITAL+VOID;CRAFTING+NEON+INTERFACES;SECURE+CORE+DEVELOPMENT" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=FULL+STACK+ARCHITECT+%7C+CYBER+ENGINEER;MASTERING+THE+DIGITAL+VOID;CRAFTING+NEON+INTERFACES;SECURE+CORE+DEVELOPMENT" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
