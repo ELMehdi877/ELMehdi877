@@ -26,8 +26,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,php,laravel,mysql,postgres,c,git,figma,vscode,docker,postman,github,jira,trello&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,php,laravel,mysql,postgres,c,git,figma,vscode,docker,postman,github&theme=dark" />
   </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </p>
 
 ---
